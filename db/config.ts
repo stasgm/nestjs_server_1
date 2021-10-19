@@ -1,8 +1,8 @@
-import config from '../config';
+// import config from '../config';
 
-const database = config.database;
-export { database }
-/* // import * as dotenv from 'dotenv';
+// const database = config.database;
+// export { database }
+// import * as dotenv from 'dotenv';
 require('dotenv').config();
 
 module.exports = {
@@ -31,4 +31,3 @@ module.exports = {
     dialect: process.env.DB_DIALECT,
   },
 };
- */
